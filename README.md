@@ -2,7 +2,9 @@
 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen) &nbsp; [![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3)
 
-A curated list of resources for solo travelers, digital nomads, and other travelers. 
+> A curated list of resources for solo travelers, digital nomads, and other travelers. 
+
+**Looking for curated lists beyond travel?** Check out [Awesome Lists](https://github.com/awesomelistsio/awesome) – a broader collection of curated resources for developers, scientists, designers, activists, and more.
 
 - [Countries](#-countries)
 - [Popular Cities](#-popular-cities)
