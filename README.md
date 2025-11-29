@@ -1,10 +1,16 @@
-# Awesome Lists for Travelers
+# Awesome Travel
+
+Curated awesome lists for travelers, digital nomads, and global explorers – covering destinations, languages, immigration, tools, and more.
+
+🛠️ Status: Actively maintained  
+🎯 Focus: Solo travel, digital nomadism, global mobility, travel safety, and destination resources.
+
+> **Part of the Awesome Ecosystem:**  
+> • **Awesome Travel** — curated tools, guides & data for travelers and digital nomads  
+> • **[Awesome Lists](https://github.com/awesomelistsio/awesome)** — discover the best tools & resources  
+> • **[Awesome Learn](https://github.com/awesomelearnio/awesome)** — learn topics step-by-step with clarity and guidance
 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen) &nbsp; [![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3)
-
-> Curated awesome lists for travelers, digital nomads, and global explorers – covering destinations, languages, immigration, tools, and more.
-
-**Looking for curated lists beyond travel?** Check out [Awesome Lists](https://github.com/awesomelistsio/awesome) – a broader collection of curated resources for developers, scientists, designers, activists, and more.
 
 - [Countries](#-countries)
 - [Popular Cities](#-popular-cities)
