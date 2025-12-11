@@ -1,4 +1,4 @@
-# Awesome Travel
+# Awesome Travel [![Awesome Travel](https://srv-cdn.himpfen.io/badges/awesome-travel/awesometravel-flat.svg)](https://github.com/brandontravel/awesome)
 
 Curated awesome lists for travelers, digital nomads, and global explorers – covering destinations, languages, immigration, tools, and more.
 
